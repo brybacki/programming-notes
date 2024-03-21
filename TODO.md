@@ -1,5 +1,6 @@
 
-
+- https://austinhenley.com/blog/challengingprojects.html
+- 
 - https://github.com/JimmyDqv/serverless-handbook/tree/main/Workshops/event-driven-ai-translation-slack-bot
 
 
