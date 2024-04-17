@@ -5,6 +5,7 @@
 - 
 
 # links
-- https://github.dev/brybacki/learn-react
+- https://github.com/brybacki/learn-react
 - https://github.com/brybacki/learn-github
 - https://github.com/brybacki/homelab
+- https://github.com/brybacki/system-design-primer
