@@ -13,3 +13,12 @@
 - https://github.com/brybacki/learn-github
 - https://github.com/brybacki/homelab
 - https://github.com/brybacki/system-design-primer
+
+# cli libs
+- picocli
+- cobra
+- pterm
+- tview
+- Bubblegum
+- textualize
+- 
