@@ -14,6 +14,9 @@
 - https://github.com/brybacki/homelab
 - https://github.com/brybacki/system-design-primer
 
+# perf tools
+- parca.dev
+
 # cli libs
 - picocli
 - cobra
