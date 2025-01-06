@@ -6,6 +6,7 @@
 
 # tools
 - deassembler online: https://godbolt.org/
+- ghostty - https://ghostty.org/ and https://github.com/sxyazi/yazi 
 
 # fun with new stuff
 - https://www.javaadvent.com/2024/12/5-cool-applications-you-can-build-with-java-and-graalvm.html
