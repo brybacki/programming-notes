@@ -5,7 +5,7 @@
 # books / blogs
 - martinfowler.com
 - use-the-index-luke.com
-- abseil.op/resources/swe-book/ -> `html/ch08.html`
+- abseil.io/resources/swe-book/ -> `html/ch08.html`
 
 # tools
 - deassembler online: https://godbolt.org/
