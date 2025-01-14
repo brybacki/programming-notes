@@ -1,7 +1,11 @@
 
 - https://austinhenley.com/blog/challengingprojects.html
 - https://github.com/JimmyDqv/serverless-handbook/tree/main/Workshops/event-driven-ai-translation-slack-bot
-- 
+
+# books / blogs
+- martinfowler.com
+- use-the-index-luke.com
+- abseil.op/resources/swe-book/ -> `html/ch08.html`
 
 # tools
 - deassembler online: https://godbolt.org/
