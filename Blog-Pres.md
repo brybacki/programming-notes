@@ -2,6 +2,8 @@
 
 1. Flaky tests
     - https://dl.acm.org/doi/fullHtml/10.1145/3476105
+    - https://www.youtube.com/watch?v=NcjS8HBZL_M
+    - https://dhiller.dev/presentation.html 
     - mfeathers article
     - ...
 
