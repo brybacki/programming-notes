@@ -14,13 +14,15 @@
 
 3. Refactor with IDE ;) 
 
-4. Concurrent / Parallel
+4. Concurrent / Parallel / Structured?
 
 5. k8s: autoscaling! - "Skalowanie aplikacji Java w Kubernetes" – automatyczne skalowanie aplikacji w oparciu o zasoby, konfiguracja Horizontal Pod Autoscaler i Load Balancing.
 
 6. "Użycie Kubernetes Operatorów dla aplikacji Java" – jak tworzyć i korzystać z Kubernetes Operatorów w celu zarządzania cyklem życia złożonych aplikacji Java w środowiskach chmurowych.
 
+7. Security by Design - together with - DOP (Data oriented programming) -> show some nice demo, based on the two presentations and Nicolai - https://www.youtube.com/watch?v=miUbs3mqPJE
 
+8. Wheel of misfortune
 
 
 
