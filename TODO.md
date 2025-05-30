@@ -6,6 +6,7 @@
 - martinfowler.com
 - use-the-index-luke.com
 - abseil.io/resources/swe-book/ -> `html/ch08.html`
+- -> https://newsletter.techworld-with-milan.com/p/learn-things-that-dont-change
 
 # tools
 - deassembler online: https://godbolt.org/
