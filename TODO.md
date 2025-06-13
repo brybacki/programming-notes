@@ -28,6 +28,8 @@
 - https://github.com/brybacki/homelab
 - https://github.com/brybacki/system-design-primer
 
+# interesting tools
+- p2p torrent docker registry: https://github.com/uber/kraken 
 # perf tools
 - parca.dev
 
