@@ -20,4 +20,4 @@ On learning about TLA+, engineers usually ask, “How do we know that the execut
 ----
 
 Another idea from Amazon papaer:
-call the presentation "Debugging designs"
+call the presentation "Debugging designs" -> chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://hpts.ws/papers/2011/sessions_2011/Debugging.pdf
