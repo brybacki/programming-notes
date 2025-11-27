@@ -2,6 +2,9 @@
 - https://github.com/ducin/awesomes
 -  https://austinhenley.com/blog/challengingprojects.html
 - https://github.com/JimmyDqv/serverless-handbook/tree/main/Workshops/event-driven-ai-translation-slack-bot
+- 
+# Richard Feynman Computer Science Lecture - Hardware, Software and Heuristics
+https://www.youtube.com/watch?v=EKWGGDXe5MA
 
 # books / blogs
 - martinfowler.com
