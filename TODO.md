@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=EKWGGDXe5MA
 - -> https://newsletter.techworld-with-milan.com/p/learn-things-that-dont-change
 
 # tools
+- AI context: https://github.com/coleam00/context-engineering-intro/tree/main
 - deassembler online: https://godbolt.org/
 - ghostty - https://ghostty.org/ and https://github.com/sxyazi/yazi 
 
@@ -33,7 +34,8 @@ https://www.youtube.com/watch?v=EKWGGDXe5MA
 - https://github.com/brybacki/system-design-primer
 
 # interesting tools
-- p2p torrent docker registry: https://github.com/uber/kraken 
+- p2p torrent docker registry: https://github.com/uber/kraken
+  
 # perf tools
 - parca.dev
 
