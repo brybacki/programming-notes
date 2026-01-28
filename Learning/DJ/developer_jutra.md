@@ -10,5 +10,7 @@
 - tensorflow playground (wizualizacja sieci): https://playground.tensorflow.org
 - "przykładowy chat template z “think”": https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B?chat_template=default&format=true 
 
-### M4
+### M4 Inżynieria produktowa 
 - Zdolności biznesowe / Procesy biznesowe / Strumienie wartości
+
+### M5 Warsztawowe Narzędzia Współpracy
