@@ -16,7 +16,9 @@ https://www.youtube.com/watch?v=EKWGGDXe5MA
 - AI context: https://github.com/coleam00/context-engineering-intro/tree/main
 - deassembler online: https://godbolt.org/
 - ghostty - https://ghostty.org/ and https://github.com/sxyazi/yazi 
+- Marp: Markdown Presentation
 
+- 
 # fun with new stuff
 - https://www.javaadvent.com/2024/12/5-cool-applications-you-can-build-with-java-and-graalvm.html
 
