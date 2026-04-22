@@ -1,5 +1,3 @@
-
-
 1. Flaky tests
     - https://dl.acm.org/doi/fullHtml/10.1145/3476105
     - https://www.youtube.com/watch?v=NcjS8HBZL_M
@@ -12,17 +10,23 @@
     - yazi
     - ghostty
 
-3. Refactor with IDE ;) 
+3. Refactor with IDE ;) to patterns
 
-4. Concurrent / Parallel / Structured?
+4. Debug with IDE
+
+4. Concurrent / Parallel / Structured concurrency in java?
 
 5. k8s: autoscaling! - "Skalowanie aplikacji Java w Kubernetes" – automatyczne skalowanie aplikacji w oparciu o zasoby, konfiguracja Horizontal Pod Autoscaler i Load Balancing.
 
-6. "Użycie Kubernetes Operatorów dla aplikacji Java" – jak tworzyć i korzystać z Kubernetes Operatorów w celu zarządzania cyklem życia złożonych aplikacji Java w środowiskach chmurowych.
+6. K8s operator: "Użycie Kubernetes Operatorów dla aplikacji Java" – jak tworzyć i korzystać z Kubernetes Operatorów w celu zarządzania cyklem życia złożonych aplikacji Java w środowiskach chmurowych.
 
 7. Security by Design - together with - DOP (Data oriented programming) -> show some nice demo, based on the two presentations and Nicolai - https://www.youtube.com/watch?v=miUbs3mqPJE
 
 8. Wheel of misfortune
+   
+9. Code review preso
+
+10.  
 
 
 
