@@ -19,7 +19,7 @@ Plan wstępny:
 
 ## 0. Tytuł (Pytanie angażujące)
 > **"Code Review: Przykry obowiązek czy najlepszy moment na naukę?"**
-
+> **"Czy Twoje Code Review faktycznie daje wartość, czy tylko psuje krew"**
 ---
 
 ## 1. Wstęp: Co nas boli? (The PrimeTime vibe)
